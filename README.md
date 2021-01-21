@@ -16,19 +16,16 @@ I'm a Software engineering student who is like to explore modern technologies an
 [<img align="left" alt="DanushkaHerath | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg" />][Facebook]
 [<img align="left" alt="DanushkaHerath | StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/stackoverflow.svg" />][StackOverFlow]
 
+   
+![Dhanuka's github stats](https://github-readme-stats.vercel.app/api?username=Dhanuka99&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanuka99&show_icons=true&theme=radical)](https://github.com/Dhanuka99/github-readme-stats)
 
 [website]: https://Dhanuka99.github.io
 [twitter]: https://twitter.com/DhanukaLakshan5
 [linkedin]: https://www.linkedin.com/in/dhanuka-lakshan-91a045190/
 [Facebook]: https://www.facebook.com/dhanuka.lakshan.395/
 [StackOverFlow]: https://stackoverflow.com/users/13066546/dhanuka-lakshan
-
-    
-![Dhanuka's github stats](https://github-readme-stats.vercel.app/api?username=Dhanuka99&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanuka99&show_icons=true&theme=radical)](https://github.com/Dhanuka99/github-readme-stats)
-
-
 
 
 
