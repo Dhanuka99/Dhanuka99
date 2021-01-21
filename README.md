@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Dhanuka Lakshan
 
-I'm a Software engineering student who is like to explore modern technologies and methods.
+I'm a Software Engineering student who is like to explore modern technologies and methods.
 
     - 🔭 I’m currently learning Hibernate and Web Topologies.
     - 🌱 I’m currently studing @ Institute of Java and Software Enginnering (IJSE).
