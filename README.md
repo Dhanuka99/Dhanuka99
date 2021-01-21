@@ -9,4 +9,4 @@ I'm a Software engineering student who is like to explore modern technologies an
     - 📫 How to reach me (email): danuka1999lakshan@gmail.com
     - ⚡ Fun fact: I spend almost 12 hours listning song everyday 😄
     
-![Dhanuka's github stats](https://github-readme-stats.vercel.app/api?username=Dhanuka99&show_icons=true)
+![Dhanuka's github stats](https://github-readme-stats.vercel.app/api?username=Dhanuka99&show_icons=true&theme=radical)
