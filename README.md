@@ -14,12 +14,10 @@ I'm a Software engineering student who is like to explore modern technologies an
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanuka99&show_icons=true&theme=radical)](https://github.com/Dhanuka99/github-readme-stats)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/Dhanuka99/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanuka99&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+
 
 
 
