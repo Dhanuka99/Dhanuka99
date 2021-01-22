@@ -2,10 +2,10 @@
 
 I'm a Software Engineering student who is like to explore modern technologies and methods.
 
-    - 🔭 I’m currently learning Hibernate and Web Topologies.
+    - 🔭 I’m currently learning Hibernate and Web Technologies.
     - 🌱 I’m currently studing @ Institute of Java and Software Enginnering (IJSE).
     - 👯 I’m looking to collaborate on Java and Web Projects.
-    - 💬 Ask me about web and java SE
+    - 💬 Ask me about Web and Java SE
     - 📫 How to reach me (email): danuka1999lakshan@gmail.com
     - ⚡ Fun fact: I spend almost 12 hours listening song everyday 😄
  ### Connect with me:
