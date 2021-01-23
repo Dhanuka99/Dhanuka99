@@ -19,7 +19,7 @@ I'm a Software Engineering student who is like to explore modern technologies an
 
 ![Dhanuka's github stats](https://github-readme-stats.vercel.app/api?username=Dhanuka99&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanuka99&layout=compact)](https://github.com/Dhanuka99/github-readme-stats)
 
 [website]: https://Dhanuka99.github.io
 [twitter]: https://twitter.com/DhanukaLakshan5
