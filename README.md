@@ -30,4 +30,3 @@ I'm a Software Engineering student who is like to explore modern technologies an
 [StackOverFlow]: https://stackoverflow.com/users/13066546/dhanuka-lakshan
 
 
-[![Build Status](https://travis-ci.org/{ORG-or-Dhanuka99}/{Thogakade}.png?branch=master)](https://travis-ci.org/{ORG-or-Dhanuka99}/{Thogakade})
