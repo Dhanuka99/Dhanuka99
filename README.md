@@ -21,7 +21,6 @@ I'm a Software Engineering student who is like to explore modern technologies an
 [<img align="left" alt="DanushkaHerath | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="DanushkaHerath | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="DanushkaHerath | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg" />][Facebook]
-<a href="https://dhanuka99.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aazafmax2" height="30" width="40" /></a>
 [<img align="left" alt="DanushkaHerath | StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/stackoverflow.svg" />][StackOverFlow]
 <br/><br/>
 
