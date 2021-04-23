@@ -2,7 +2,7 @@
 
 I'm a Software Engineering student who is like to explore modern technologies and methods.
 
-    - 🔭 I’m currently learning Hibernate and Web Technologies.
+    - 🔭 I’m currently learning Spring and Web Technologies.
     - 🌱 I’m currently studing @ Institute of Java and Software Enginnering (IJSE).
     - 👯 I’m looking to collaborate on Java and Web Projects.
     - 💬 Ask me about Web and Java SE
