@@ -15,7 +15,7 @@ I'm a Software Engineering student who is like to explore modern technologies an
     
 
 
- ### Connect with me:
+### Connect with me: <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
  
 [<img align="left" alt="DanushkaHerath" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="DanushkaHerath | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
