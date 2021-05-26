@@ -37,4 +37,8 @@ I'm a Software Engineering student who is like to explore modern technologies an
 [Facebook]: https://www.facebook.com/dhanuka.lakshan.395/
 [StackOverFlow]: https://stackoverflow.com/users/13066546/dhanuka-lakshan
 
+### Spotify Playing 🎧
+<!-- [![Spotify](https://spotify-now-playing-dusky.vercel.app/api/spotify-playing)](https://open.spotify.com/user/c4gfqvi32p14b0v8svpmrpui2) -->
+
+[<img src="https://readme-spotify-status.vikumkbv.vercel.app/api/run-spotify-status" alt="Your alt what" width="400" />](https://open.spotify.com/user/c4gfqvi32p14b0v8svpmrpui2)
 
