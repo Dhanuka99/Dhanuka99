@@ -20,10 +20,7 @@ I'm a Software Engineering student who is like to explore modern technologies an
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=Dhanuka99&show_icons=true&theme=github_dark">
 </p>
-<hr>
-<br>
 
-<hr><br>
 ### Connect with me: <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
  
 [<img align="left" alt="DanushkaHerath" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
