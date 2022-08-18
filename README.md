@@ -27,7 +27,13 @@ I'm a Software Engineering student who is like to explore modern technologies an
 [<img align="left" alt="DanushkaHerath | StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/stackoverflow.svg" />][StackOverFlow]
 <br/><br/>
 
-![Dhanuka's github stats](https://github-readme-stats.vercel.app/api?username=Dhanuka99&show_icons=true&theme=radical)
+## Github Stats &nbsp;📊
+<br>
+<p align='center'>
+<img src="https://github-readme-stats.vercel.app/api?username=Dhanuka99&show_icons=true&theme=github_dark">
+</p>
+<hr>
+<br>
 
 
 
