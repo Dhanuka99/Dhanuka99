@@ -15,6 +15,14 @@ I'm a Software Engineering student who is like to explore modern technologies an
 <br>
 <p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=Dhanuka99&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
 
+## Github Stats &nbsp;📊
+<br>
+<p align='center'>
+<img src="https://github-readme-stats.vercel.app/api?username=Dhanuka99&show_icons=true&theme=github_dark">
+</p>
+<hr>
+<br>
+
 <hr><br>
 ### Programming Languages 👨‍💻 :
 <br>
@@ -104,16 +112,6 @@ I'm a Software Engineering student who is like to explore modern technologies an
 [<img align="left" alt="DanushkaHerath | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg" />][Facebook]
 [<img align="left" alt="DanushkaHerath | StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/stackoverflow.svg" />][StackOverFlow]
 <br/><br/>
-
-## Github Stats &nbsp;📊
-<br>
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=Dhanuka99&show_icons=true&theme=github_dark">
-</p>
-<hr>
-<br>
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanuka99&layout=compact&theme=radical)](https://github.com/Dhanuka99/github-readme-stats)
 ![](https://github.com/vikumkbv/vikumkbv/blob/master/icons/header_.png)
