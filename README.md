@@ -10,7 +10,7 @@ I'm a Software Engineering student who is like to explore modern technologies an
     - ⚡ Fun fact: I spend almost 12 hours listening song everyday 😄
 <img src="https://komarev.com/ghpvc/?username=Dhanuka99">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/Dhanuka99?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
-
+[![@dhanuka's Holopin board](https://holopin.io/api/user/board?user=dhanuka)](https://holopin.io/@dhanuka)
 ## Github Contribution Streak 🔥 
 <br>
 <p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=Dhanuka99&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
