@@ -12,7 +12,7 @@ I'm a Software Engineering student who is like to explore modern technologies an
 <img src="https://img.shields.io/github/followers/Dhanuka99?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<script src="https://tryhackme.com/badge/1275413"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/facsimilerotatin.png" alt="TryHackMe">
 
 
 ### Awards 
