@@ -10,6 +10,8 @@ I'm a Software Engineering student who is like to explore modern technologies an
     - ⚡ Fun fact: I spend almost 12 hours listening song everyday 😄
 <img src="https://komarev.com/ghpvc/?username=Dhanuka99">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/Dhanuka99?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
+###TryHack Me 
+<script src="https://tryhackme.com/badge/1275413"></script>
 ### Awards 
 [![@jaya's Holopin board](https://holopin.me/jaya)](https://holopin.io/@jaya)
 
